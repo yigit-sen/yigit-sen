@@ -1,7 +1,7 @@
 
  
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yiğit</h1>
-<h3 align="center>I'm Computer Engineering Student in Duzce University.</h3><br/>
+<h3 width="30px" align="center>I'm Computer Engineering Student in Duzce University.</h3><br/>
 
 
 
