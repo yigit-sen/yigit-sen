@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img alt="GIF" height="30px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /> width="30px">, I'm Yiğit
+<h1 align="center">Hi <img alt="GIF" height="30px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" /> I'm Yiğit
 
 </h1>
 <h3 width="30px" align="center">I'm Computer Engineering Student in Duzce University.</h3>
