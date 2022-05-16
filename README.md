@@ -11,7 +11,7 @@
            <br/>
            <br/>
 
-<p align="right"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img style="width:%30;height:%30" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
+<p align="left"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img style="width:%30;height:%30" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
 
 
 <p align="center">
