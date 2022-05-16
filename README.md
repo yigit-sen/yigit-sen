@@ -4,6 +4,7 @@
 <h3 align="center>I'm Computer Engineering Student in Duzce University.</h3> 
 
 
+<p align="left"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
 
 <p align="center">
     <a href="https://github.com/yigit-sen/github-readme-streak-stats">
