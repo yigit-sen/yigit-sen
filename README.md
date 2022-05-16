@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan :wave:
 
-<img src="https://github-readme-stats.vercel.app/api?username=axieum&count_private=true&show_icons=true&theme=graywhite" align="right" alt="Jonathan Hiles' GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=yigit-sen&count_private=true&show_icons=true&theme=graywhite" align="right" alt="Jonathan Hiles' GitHub Stats">
 
 I am a [Yorkshireman][wiki:yorkshire] who graduated with a Computer Science
 :mortar_board: (w/ Intelligent Systems and Networks & Security) degree from the
