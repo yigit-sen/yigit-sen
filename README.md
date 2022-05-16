@@ -18,8 +18,6 @@
     <a href="https://github.com/yigit-sen/github-readme-stats"><img alt="Yiğit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yigit-sen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/yigit-sen/github-readme-stats"><img alt="Yiğit's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigit-sen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<br/>
 <br/>
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yiğit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yigit-sen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
