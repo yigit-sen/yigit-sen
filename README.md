@@ -35,7 +35,7 @@
 <a href = "https://www.linkedin.com/in/yigit-sen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yigitsn0"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/yigitsn0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/452/geography--v1.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img style="width:48px;height:48px" src="https://img.icons8.com/color/452/geography--v1.png"/></a>
 
 </p>
 
