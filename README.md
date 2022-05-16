@@ -4,6 +4,12 @@
 <h3 align="center>I'm Computer Engineering Student in Duzce University.</h3> 
            <br/>
            <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
+           <br/>
 
 <p align="right"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img style="width:%30;height:%30" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
 
