@@ -1,11 +1,11 @@
 
- <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yiğit</h1>
 <h3 width="30px" align="center">I'm Computer Engineering Student in Duzce University.</h3>
 <br/>
 
 
 
+ <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" />
 <p align="right"><a href="https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true"><img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true&theme=default"><a/></p>
 
 <p align="left">
