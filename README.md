@@ -22,7 +22,7 @@
     <a href="https://github.com/yigit-sen/github-readme-stats"><img alt="Yiğit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yigit-sen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
                                                                                           
-<p align="left">
+
 ![](https://komarev.com/ghpvc/?username=yigit-sen)
-</p>
+
 
