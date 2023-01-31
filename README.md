@@ -24,6 +24,5 @@
                                                                                           
 <p align="left">
 ![](https://komarev.com/ghpvc/?username=yigit-sen)
-
 </p>
 
