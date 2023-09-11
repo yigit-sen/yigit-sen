@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Yiğit
 
 </h1>
-<h3 width="30px" align="center">I'm Computer Engineering Student in Duzce University.</h3>
+<h3 width="30px" align="center">I'm Computer Engineering Student in Bursa Uludag University.</h3>
 <br/>
 
 
